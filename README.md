@@ -1,2 +1,2 @@
 # TextEditor
-Text Editor Web App (using Stacks) 
+Text Editor Web App
